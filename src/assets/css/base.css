@@ -4,8 +4,8 @@
 :root{
     /*css中定义变量的方式如下:*/
     --color-text:#666;
-    --color-high-text:#ff5777;
-    --color-tint:#ff8198;
+    --color-high-text:#dc5436;
+    --color-tint:#dc5436;
     --color-background:#fff;
     --font-size:14px;
     --line-height:1.5;
